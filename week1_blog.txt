@@ -1,8 +1,0 @@
-This week I was able to read through papers and documents pertaining to RadClss, Py-ART, MC3E, github, etc.
-I was also able to somewhat navigate the github repository and commit a test text file to my fork of the 
-repository. Earlier in the week I attended both orientation sessions and had a meeting with Joseph about 
-the scope of the project and what are some of the next steps going forward. 
-
-Plan for this next week is to set up coding environment, plot radar data with aircraft overlays from the May 
-20th event, make GIFS for that associated event, and if time allows work on incorporating those GIF images 
-into the GUI that was being developed by Christian.
