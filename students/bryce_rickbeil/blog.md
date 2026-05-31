@@ -19,7 +19,7 @@ _A bug, a confusing result, something you couldn't figure out — write it down 
 _One or two things you understand better now than you did last week._
 
 ### Log
-- 2026/05/29
+## 2026/05/29
 This week I was able to read through papers and documents pertaining to RadClss, Py-ART, MC3E, github, etc.
 I was also able to somewhat navigate the github repository and commit a test text file to my fork of the 
 repository. Earlier in the week I attended both orientation sessions and had a meeting with Joseph about 
