@@ -55,4 +55,22 @@ spent trying to not only find the data but also being able to download it was a 
 I have learned better how to use the Py-ART library and also am more able and comfortable in navigating the github 
 repository. 
 
+## 2026/06/12
+This week I worked on code that would find which elevation sweep the Citation aircraft was in and then would plot a ppi 
+of just that sweep along with code that would generate a sudo RHI scan of the vertical cross section that the aircraft 
+was in. Then I was able to find the data file containing all of the cloud microphysics observations from the citation
+and display some of the parameters and compare them with some of the reflectivity values that I earlier found. I also 
+worked on code that would create a time series plot of radar reflectivity above, on, and below the aircraft based on
+its location and then add that extra data into the data array containing the other microphysics data. Then as of more 
+recent I have been working on and will still be finishing up figure creation of sudo RHI scans to then compare some of 
+these with the data that I am extracting. I also started on a draft of the introduction to the final SULI paper too.
+
+Something that was and still is confusing is matplotlib not fully plotting my 10 second interval data, my guess is it has
+something to do with how matplotlib is defining intervals and how my intervals are but I am not for sure. 
+
+I have definetly become more comfortable with retrieving data from the ARM data base as I was more easily able to get the
+citation observation data this time around. 
+
+Next week I will try to finish up the sudo RHI images for comparison and I would also like to talk with Joe further 
+about my methodology of data extraction to make sure that the method makes sense. 
 ---
