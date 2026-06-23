@@ -73,4 +73,26 @@ citation observation data this time around.
 
 Next week I will try to finish up the sudo RHI images for comparison and I would also like to talk with Joe further 
 about my methodology of data extraction to make sure that the method makes sense. 
+
+## 2026/06/19
+This week I finished generating a sample set of sudo RHI images to compare these with the columnar vertical profile 
+extraction where in which they seemed to be very similar to each other. Then I started to work on a four panel display
+of radar PPI scans with aircraft location, HVPS-3 particle images, flight altitude over time, and particle size 
+distribution. I was also able to get a formula down for converting particle size distribution to sudo radar reflectivity 
+for further comparison between radar and aircraft measurements. I also worked a bit on the final paper methodology and 
+introduction where Joe gave some feedback. My next steps will be getting a full data set of radar reflectivity for the 
+citations location and then comparing radar reflectivity with the sudo reflectivity found. I will also work on a 
+classification system to differentiate what the aircraft is doing at certain times in order to compare reflectivities at 
+certain legs of the flight. 
+
+A difficulty that I ran into was the my data isn't seeming to align up when I parse through it and I hope to eventually
+find an answer to that issue but in the mean time I will just be mindful that my data might be off. 
+
+I found that there hasn't been much work done with sudo reflectivity comparisons to radar reflectivity. I also learned that
+when doing these comparisons there is a dieletric coefficient that can be applied that does seem to correct the data and 
+gives a very reasonable result. 
+
+Next week I plan to work on finishing up the ppi with aircraft images for the four panel display and also finishing up
+the analysis between the sudo and radar reflectivity. I would also like to work more on the papers introduction and 
+methodology along with maybe start the poster??
 ---
