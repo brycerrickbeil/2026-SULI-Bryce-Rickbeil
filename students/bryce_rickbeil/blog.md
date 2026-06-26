@@ -95,4 +95,28 @@ gives a very reasonable result.
 Next week I plan to work on finishing up the ppi with aircraft images for the four panel display and also finishing up
 the analysis between the sudo and radar reflectivity. I would also like to work more on the papers introduction and 
 methodology along with maybe start the poster??
+
+## 2026/06/26
+This week I mostly worked on a functional interactive four panel display of the UND aircraft overlayed on a PPI map 
+along with HVPS-3 particle images, aircraft altitude and temperature time series, and particle size distribution 
+observed by the HVPS-3. This is mostly completed now with just a few finishing touches that will probably take place next 
+week to then generate some figures for the SULI poster and maybe paper figures. I was also able to start work on a third 
+draft of the SULI paper introduction implementing the changes that Joe had suggested along with some flow improvements too.
+I was also able to get a basic generation of phase clasification added to the aircraft microphysics file so that now there 
+can be some comparison done with what the aircraft is observing and what the CSU radar tools is claiming that the radar is 
+theoretically seeing in that given area. Based upon some quick analysis of what was being shown in this comparison there 
+does deffinetly seem to be some discrepancies between the in-situ and remote sensing datas. 
+
+A difficulty that I ran into this week was an issue where when on the CELS compute server when I would try to generate the
+PPI scans with aircraft overlay there were some weird issues with the aircraft and radar locations seeming to not be correct 
+to what the data array claims to have in it. This seems like it might be an issue with the cartopy library that is on the server
+but I am unsure. As a fix to this I just generated the PPI scans locally on my own computer where the data would seemingly plot
+correctly. Another oddity that I came across was when plotting a comparison of the radar reflectivity and the aircraft sudo 
+reflectivity there seemed to be a logarithmic difference between the two which will need to be looked more in to in the future 
+so that proper analysis of these variables can be done. 
+
+Next week I plan to work on the SULI paper some more along with getting some considerable work done to the poster. I will also
+be doing some touch ups to the four panel display and some futher comparison of HVPS-3 observations and CSU radar tools 
+hydrometeor classification at some different aircraft locations. I would also like to get a considerable amount of figures prepared
+for the poster this next week if I am unable to do much else with the poster given time constraints. 
 ---
