@@ -145,4 +145,20 @@ to look at the possible chain aggregate cases that were present from the HVPS-3 
 introduction to the paper along with getting the methodology more nailed down. I will also start working on some more analysis of these possible
 chain aggregate cases as the Cloud Imaging Probe was used on this campaign and will reveal if there really were chains present during the
 May 20th flight.
+
+## 2026/07/17
+This week I was able to consalidate all of the RadCAT code into a python file that works by taking in the directory location of all the radar files
+and the aircraft microphysics file and then returns a new microphysics file with hydrometeor classification and radar reflectivity of the respective
+location of the aircraft. I was also able to complete the poster and submit it to its respective dropbox. There was a slight last minute change to 
+the poster as we used a mass dimensional reflectivity calculation instead of the regular radar reflectivity equation. This resulted in a more 
+linear trend but there was still underprediction between the calculated value and radar returned value for reflectivity. 
+
+One main challenge that I ran into this week was that there was really not great clarification as to what all needed to be submitted this week, i.e. 
+does the abstract need to be included with the poster when it is submitted and there was also alot of different places that said that things should be 
+submitted in other locations then what was provided in emails. In the end I found out the the abstract does not need to be submitted with the poster 
+and the poster only needs to be submitted to the dropbox in the Argonne box account. 
+
+Plans for next week will mostly consist of working on the paper and possibly doing some more coding work to further consolidate and document different 
+codes that were made throughout the extent of the internship. I may even start looking at some other campaigns are other case day of MC3E using the 
+RadCAT analysis to start building a decent dataset before the internship concludes. 
 ---
