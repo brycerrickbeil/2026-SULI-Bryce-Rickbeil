@@ -161,4 +161,16 @@ and the poster only needs to be submitted to the dropbox in the Argonne box acco
 Plans for next week will mostly consist of working on the paper and possibly doing some more coding work to further consolidate and document different 
 codes that were made throughout the extent of the internship. I may even start looking at some other campaigns are other case day of MC3E using the 
 RadCAT analysis to start building a decent dataset before the internship concludes. 
+
+## 2026/07/24
+Throughout this week I worked on the SULI paper deliverable and was able to get most sections drafted. The only section left to finish a draft for is the 
+conclusion, from which I will then plan to work on reviewing all the sections and making sure that the paper flows well. Some topics of discussion that 
+came up between Joe and I was talking about a CPI imagery reconstruction algorithm that is being worked on by Columbia University and plans for a meeting 
+with them to learn more about the software. We had also talked about AI and its general usefullness when it comes to coding projects that are easy but 
+are also time consuming. Lastly I was able to upload all of the used data along with a majority of the figures from this summer to the GCE sever through
+Argonne under the mc3e directory. 
+
+Next week I plan to finish the paper before the July 31st deadline, I am also presenting at the CELS student poster session on Wednesday and will also 
+be present at Learning on The Lawn at Argonne. After learning on the lawn I will finish up the peer review deliverable that is due and I will also plan 
+to submit the general audience abstract that is already made up. 
 ---
