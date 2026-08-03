@@ -119,4 +119,21 @@ Next week I plan to work on the SULI paper some more along with getting some con
 be doing some touch ups to the four panel display and some futher comparison of HVPS-3 observations and CSU radar tools 
 hydrometeor classification at some different aircraft locations. I would also like to get a considerable amount of figures prepared
 for the poster this next week if I am unable to do much else with the poster given time constraints. 
+
+## 2026/07/02
+This week I was able to finish up some more analysis of data after running the phase classification algorithm. Joe and I also were 
+able to formalize what I will be focusing on in the poster which will be hail events and how well they are being classified as 
+after some short analysis it was found that the events seem to not be getting classified really well. Also there seems to be a better
+explaination as to why the radar reflectivity and calculated reflectivity are off and that is most likely do to the sizing algorithm
+where elongated objects when a best fit circle is placed around them will underestimate the size of the object. I was also able to 
+find that only during flight levels above 5000m is the aircraft calculated reflectivity at least within 5 dBz of the radar reflectivity
+and this is seemingly due to the fact that the particles observed above 5000m are perfect small spheres that are completely ice. 
+I was also able to work a lot on the SULI paper introduction and have a better idea of the flow that I will be working on going into 
+next week. I was somewhat able to work on the poster, I got most of the figures generated but mostly just need to start the writing 
+process. 
+
+Next week I plan to work more on the paper and poster with more emphasis on the poster as the due date for that is coming up. In terms 
+of analysis of data it seems that is winding down so from here on I will plan to just mess around with data at any points of free time 
+that I may get over the next couple of weeks. I also wouldn't mind working on another display for data that takes in a time and displays
+particle images and a bunch of other microphysics data but time allowing we will see where I can get. 
 ---
