@@ -136,4 +136,13 @@ Next week I plan to work more on the paper and poster with more emphasis on the 
 of analysis of data it seems that is winding down so from here on I will plan to just mess around with data at any points of free time 
 that I may get over the next couple of weeks. I also wouldn't mind working on another display for data that takes in a time and displays
 particle images and a bunch of other microphysics data but time allowing we will see where I can get. 
+
+## 2026/07/10
+Throughout the week I mostly focused on getting the SULI poster done and working on more of the paper. I was able to get the poster mostly 
+finished with just some small revisions needed that will be completed this next week. As for the paper I was able to get the introduction mostly 
+finished along with a rough outline draft of the methodology. There was some analysis work done with regards to the project and now the plan is
+to look at the possible chain aggregate cases that were present from the HVPS-3 images. This next week I plan to finish up the poster and the
+introduction to the paper along with getting the methodology more nailed down. I will also start working on some more analysis of these possible
+chain aggregate cases as the Cloud Imaging Probe was used on this campaign and will reveal if there really were chains present during the
+May 20th flight.
 ---
